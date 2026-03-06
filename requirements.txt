@@ -1,10 +1,8 @@
-requests
-supabase
-python-dotenv
-streamlit==1.32.0
-plotly
-pandas
-apscheduler
-streamlit-autorefresh
-psycopg2-binary
+streamlit==1.29.0
 altair==4.2.2
+pandas
+numpy
+psycopg2-binary
+requests
+streamlit-autorefresh
+python-dotenv
