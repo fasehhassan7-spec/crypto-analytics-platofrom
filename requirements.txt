@@ -6,3 +6,6 @@ psycopg2-binary
 requests
 streamlit-autorefresh
 python-dotenv
+plotly
+supabase
+apscheduler
